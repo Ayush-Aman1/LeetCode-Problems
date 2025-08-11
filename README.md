@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
