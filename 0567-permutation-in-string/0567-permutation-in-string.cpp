@@ -3,27 +3,30 @@ public:
     bool checkInclusion(string s1, string s2) {
         int k = s1.size();
         int n = s2.size();
-        int l = 0, r = k-1;
+        
+        if (k > n) return false; 
         unordered_map<char, int> count1;
         for (char c : s1) {
             count1[c]++;
         }
+
         unordered_map<char, int> count2;
-        while(r<n){
-            unordered_map<char, int> count2;
-            string subs;
-            subs = s2.substr(l, k);
-            for(char c:subs){
-                count2[c]++;
-            }
-            if(count1 == count2){
-                return true;
-            }
-            else{
-                l++;
-                r++;
-            }
+        for (int i = 0; i < k; i++) {
+            count2[s2[i]]++;
         }
+        
+        if (count1 == count2) return true;
+        
+        for (int i = k; i < n; i++) {
+            count2[s2[i]]++;
+            char oldChar = s2[i - k];
+            count2[oldChar]--;
+            if (count2[oldChar] == 0) {
+                count2.erase(oldChar);
+            }
+            if (count1 == count2) return true;
+        }
+        
         return false;
     }
 };
