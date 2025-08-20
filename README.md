@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0239-sliding-window-maximum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0739-daily-temperatures](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 ## Matrix
 |  |
 | ------- |
