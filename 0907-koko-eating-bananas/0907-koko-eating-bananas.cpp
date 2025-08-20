@@ -4,6 +4,9 @@ public:
         int l = 1;
         int r = *max_element(piles.begin(), piles.end());
         int res = r;
+        if(piles.size()==h){
+            return res;
+        }
 
         while (l <= r) {
             int k = (l + r) / 2;
