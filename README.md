@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0567-permutation-in-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Queue
@@ -125,11 +127,13 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0021-merge-two-sorted-lists](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
