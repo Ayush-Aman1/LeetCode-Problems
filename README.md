@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Queue
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0074-search-a-2d-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1023-time-based-key-value-store) |
 ## Matrix
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0021-merge-two-sorted-lists](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
