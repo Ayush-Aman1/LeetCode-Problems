@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0138-copy-list-with-random-pointer](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1023-time-based-key-value-store) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [1023-time-based-key-value-store](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1023-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
