@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
 ## Dynamic Programming
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0143-reorder-list) |
