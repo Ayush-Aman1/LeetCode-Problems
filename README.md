@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 ## Design
 |  |
