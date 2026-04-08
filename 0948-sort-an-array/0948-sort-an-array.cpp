@@ -22,8 +22,6 @@ public:
                 j--;
             }
         }
-        
-        // Place the pivot in its final, sorted position
         swap(arr[l], arr[j]);
         return j;
     }
