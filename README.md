@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0948-sort-an-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
