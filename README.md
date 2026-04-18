@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0054-spiral-matrix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
