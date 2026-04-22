@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0239-sliding-window-maximum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0739-daily-temperatures](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Union-Find
 |  |
 | ------- |
