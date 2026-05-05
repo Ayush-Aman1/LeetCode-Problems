@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1023-time-based-key-value-store) |
 ## String
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0076-minimum-window-substring](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
