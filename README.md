@@ -249,5 +249,18 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0100-same-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
