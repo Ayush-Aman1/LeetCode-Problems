@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+| [0135-candy](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 ## Union-Find
 |  |
