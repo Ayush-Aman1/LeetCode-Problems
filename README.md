@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0074-search-a-2d-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0135-candy) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0015-3sum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
