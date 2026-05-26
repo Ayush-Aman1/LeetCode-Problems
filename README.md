@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
