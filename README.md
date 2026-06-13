@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0035-search-insert-position](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
