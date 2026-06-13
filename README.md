@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0054-spiral-matrix](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0258-add-digits) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [4216-weighted-word-mapping](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/4216-weighted-word-mapping) |
 ## Number Theory
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [4216-weighted-word-mapping](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/4216-weighted-word-mapping) |
 ## Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1023-time-based-key-value-store) |
+| [4216-weighted-word-mapping](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/4216-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
