@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Queue
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0234-palindrome-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
