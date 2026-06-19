@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1833-find-the-highest-altitude](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4216-weighted-word-mapping](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/4216-weighted-word-mapping) |
 ## Stack
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
