@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0258-add-digits) |
+| [1446-angle-between-hands-of-a-clock](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1446-angle-between-hands-of-a-clock) |
 ## Simulation
 |  |
 | ------- |
