@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0202-happy-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0258-add-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1968-maximum-building-height](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1968-maximum-building-height) |
 ## Simulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1833-find-the-highest-altitude](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
+| [1968-maximum-building-height](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1968-maximum-building-height) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [4216-weighted-word-mapping](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/4216-weighted-word-mapping) |
 ## Stack
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0088-merge-sorted-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0883-car-fleet](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0948-sort-an-array) |
+| [1968-maximum-building-height](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1968-maximum-building-height) |
 ## Dynamic Programming
 |  |
 | ------- |
