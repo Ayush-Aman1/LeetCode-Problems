@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1961-maximum-ice-cream-bars](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1968-maximum-building-height) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 | [4216-weighted-word-mapping](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/4216-weighted-word-mapping) |
 ## Stack
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0948-sort-an-array](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0948-sort-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
 | [1968-maximum-building-height](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1968-maximum-building-height) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0908-middle-of-the-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Queue
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0287-find-the-duplicate-number](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1023-time-based-key-value-store) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0135-candy](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [1961-maximum-ice-cream-bars](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/1961-maximum-ice-cream-bars) |
+| [3967-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ayush-Aman1/LeetCode-Problems/tree/master/3967-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Union-Find
 |  |
 | ------- |
